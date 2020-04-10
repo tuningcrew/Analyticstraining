@@ -1,4 +1,4 @@
-# Analyticstraining
+# Training
 
 We conduct training on variety of topics
 
